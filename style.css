@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.parent-div {
+    display: flex;
+    justify-content: space-between;
+    background: #F3F4F5;
+    padding: 4px 32px;
+}
+
+.child-div {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+a {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #31353BAD;
+    text-decoration: none;
+    margin-left: 12px;
+}
+
+.material-icons {
+    font-size: 16px;
+    color: #31353BAD;
+}
+
